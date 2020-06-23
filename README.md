@@ -59,6 +59,10 @@ to find it.
     - First install PDAL and GDAL, then the other requirements
 
 ## Contributors
-![Contributors](data/images/contributors.svg)
-
+<a href="https://github.com/khalhoz"><img src="https://avatars3.githubusercontent.com/u/45310130?s=400&v=4" alt="k  halhoz" height="75px" style="border-radius:20px"></a>
+<a href="https://github.com/kriskenesei"><img src="https://avatars1.githubusercontent.com/u/33285109?s=400&v=4" alt="kriskenesei" height="75px" style="border-radius:20px"></a>
+<a href="https://github.com/mdjong1"><img src="https://avatars3.githubusercontent.com/u/4410453?s=460&u=237764227f8e0120c09d1ee7ba68a8ec05de57b5&v=4" alt="mdjong1" height="75px" style="border-radius:20px"></a>
+<a href="https://github.com/lkeurentjes"><img src="https://avatars1.githubusercontent.com/u/43202623?s=460&u=4444f9995c4524bf129ae418df178a7a55d19d1b&v=4" alt="lkeurentjes" height="75px" style="border-radius:20px"></a>
+<a href="https://github.com/mpa-tudelft"><img src="https://avatars2.githubusercontent.com/u/63740918?s=460&v=4" alt="mpa-tudelft" height="75px" style="border-radius:20px"></a>
+<a href="https://github.com/hugoledoux"><img src="https://avatars3.githubusercontent.com/u/1546518?s=460&u=d2e1fa9dabc69e71793739e739f6bac7ce24a1b9&v=4" alt="hugoledoux" height="75px" style="border-radius:20px"></a>
 
