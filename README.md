@@ -40,7 +40,7 @@ around 20GB of memory to run. Optimizations can be made if memory use for quadra
 ## Documentation and help
 Read the full documentation at [http://geo11012020ahn3.rtfd.io/](http://geo11012020ahn3.rtfd.io/)
 
-For any hiccups you encounter, please create an [issue](/issues)
+For any hiccups you encounter, please create an [issue](https://github.com/tudelft3d/geo1101.2020.ahn3/issues/new)
 
 ## Notes
 For DTM a Laplace interpolation is used based on Startin's Delaunay Triangulation, which in turn is based on Rust, making
