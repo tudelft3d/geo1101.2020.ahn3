@@ -4,7 +4,7 @@
 
 <img src="data/images/comparison_old_new.gif" height="400px" alt="Comparison between current DTM and improved version"/>  
 
-<sub>Created using [JuxtaposeJS](https://juxtapose.knightlab.com/) </sub>
+<sub>GIF created using [JuxtaposeJS](https://juxtapose.knightlab.com/) </sub>
 
 ---
 
