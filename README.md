@@ -4,6 +4,8 @@
 
 <img src="data/images/comparison_old_new.gif" height="400px" alt="Comparison between current DTM and improved version"/>  
 
+<sub>Created using [JuxtaposeJS](https://juxtapose.knightlab.com/) </sub>
+
 ---
 
 The current gridded DTM and DSM for the Netherlands has some flaws, showing many missing pixels where the interpolation
