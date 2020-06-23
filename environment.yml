@@ -137,5 +137,5 @@ dependencies:
   - pip:
     - startin==0.6.0
     - toml==0.10.0
-	- sphinx_rtd_theme==0.5.0
+    - sphinx_rtd_theme==0.5.0
 prefix: /home/maartenjong/anaconda3/envs/geo1101ahn3
