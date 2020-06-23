@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/tudelft3d/geo1101.2020.ahn3)](https://github.com/tudelft3d/geo1101.2020.ahn3/blob/master/LICENSE) [![DOI](https://zenodo.org/badge/273226804.svg)](https://zenodo.org/badge/latestdoi/273226804) [![Documentation Status](https://readthedocs.org/projects/geo11012020ahn3/badge/?version=latest)](https://geo11012020ahn3.readthedocs.io/en/latest/?badge=latest)
+
 # Improved AHN3 Gridded DTM/DSM
 
 <img src="data/images/comparison_old_new.gif" height="400px" alt="Comparison between current DTM and improved version"/>  
