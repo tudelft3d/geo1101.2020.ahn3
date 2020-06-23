@@ -33,6 +33,11 @@ around 20GB of memory to run. Optimizations can be made if memory use for quadra
     1. Further parameters are optimized for use with AHN3 dataset
 1. Run main.py
 
+## Documentation and help
+Read the full documentation at [http://geo11012020ahn3.rtfd.io/](http://geo11012020ahn3.rtfd.io/)
+
+For any hiccups you encounter, please create an [issue](/issues)
+
 ## Notes
 For DTM a Laplace interpolation is used based on Startin's Delaunay Triangulation, which in turn is based on Rust, making
 it extremely fast to execute.
