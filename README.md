@@ -43,6 +43,13 @@ Read the full documentation at [http://geo11012020ahn3.rtfd.io/](http://geo11012
 For any hiccups you encounter, please create an [issue](https://github.com/tudelft3d/geo1101.2020.ahn3/issues/new)
 
 ## Notes
+For more interpolation methods that have been implemented in the process of this project, see
+[this](https://github.com/khalhoz/AHN-GroundFiltering-and-Interpolation) repository. It holds six different interpolation
+methods that can be used to replace the ones featured here, and also contains information on how to use them.
+
+The chosen interpolation methods in this repository have been proven to provide the best results for our datasets, and are
+the most robust encountered.
+
 For DTM a Laplace interpolation is used based on Startin's Delaunay Triangulation, which in turn is based on Rust, making
 it extremely fast to execute.
 
