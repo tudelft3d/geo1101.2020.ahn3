@@ -13,7 +13,7 @@ idna==2.9
 laspy==1.7.0
 mkl-service==2.3.0
 munch==2.5.0
-numpy==1.18.4
+numpy==1.22.0
 PDAL==2.1.0
 pycparser==2.20
 pyOpenSSL==19.1.0
