@@ -30,5 +30,5 @@ toml==0.10.0
 urllib3==1.26.5
 win-inet-pton==1.1.0
 wincertstore==0.2
-owslib==0.20.0
+owslib==0.28.1
 sphinx_rtd_theme==0.5.0
