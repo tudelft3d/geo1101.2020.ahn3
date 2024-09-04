@@ -7,7 +7,7 @@ click==7.1.2
 click-plugins==1.1.1
 cligj==0.5.0
 cryptography==43.0.1
-Fiona==1.8.11
+Fiona==1.10.0
 GDAL==3.0.4
 idna==3.7
 laspy==1.7.0
