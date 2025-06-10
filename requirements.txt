@@ -20,7 +20,7 @@ pyOpenSSL==19.1.0
 pyparsing==2.4.7
 PySocks==1.7.1
 rasterio==1.1.0
-requests==2.32.0
+requests==2.32.4
 scipy==1.10.0
 Shapely==1.7.0
 six==1.14.0
