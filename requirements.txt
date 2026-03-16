@@ -16,7 +16,7 @@ munch==2.5.0
 numpy==1.22.0
 PDAL==2.1.0
 pycparser==2.20
-pyOpenSSL==19.1.0
+pyOpenSSL==26.0.0
 pyparsing==2.4.7
 PySocks==1.7.1
 rasterio==1.1.0
