@@ -9,7 +9,7 @@ cligj==0.5.0
 cryptography==46.0.5
 Fiona==1.10.0
 GDAL==3.0.4
-idna==3.7
+idna==3.15
 laspy==1.7.0
 mkl-service==2.3.0
 munch==2.5.0
